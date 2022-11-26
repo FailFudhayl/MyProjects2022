@@ -1,0 +1,1 @@
+print('Halo semuanya! Saya ingin memperkenalkan diri saya! Nama lengkap saya Intan Aulia Husnunnisa, kalian bisa panggil saya Intan. Saya tinggal di Jakarta. Saya senang menggambar dan menikmati melakukan koding dan problem solving. Senang bertemu dengan kalian semua. Terima kasih!')
